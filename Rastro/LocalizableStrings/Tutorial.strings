@@ -1,0 +1,18 @@
+/* 
+  Tutorial.strings
+  MiTPV
+
+  Created by Karen Rodriguez on 30/10/18.
+  Copyright © 2018 Yamblet. All rights reserved.
+*/
+
+// MARK: Carousel
+
+"first_title" = "¡ Bienvenid@ a Rastro !";
+"first_content" = "Rastro es una aplicación que tiene como objetivo ayudar al esparcimiento de información acerca de posibles delitos y feminicidios para prevenirlos. ";
+"second_title" = "Mantente Alerta ‼️";
+"second_content" = "Rastro informa a tus familiares o amigos cercanos si es posible que te encuentres en peligro";
+"third_title" = "¡ Alza la voz ! 🎤";
+"third_content" = "Con Rastro puedes reportar algún incidente o acto sospechoso que notes en la calle y ayudar a prevenir posibles delitos graves";
+
+
